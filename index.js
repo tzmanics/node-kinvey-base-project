@@ -7,6 +7,6 @@ Kinvey.init(config.kinvey);
 Kinvey.ping().then((response) => {
   console.log(`Kinvey Ping Success! Response: ${response.kinvey}`);
   }).catch((error) => {
-    console.log(`Kinvey Ping Failed. Resonse: ${error.description}`);
+    console.log(`Kinvey Ping Failed. Response: ${error.description}`);
   });
 
