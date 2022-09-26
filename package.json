@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/tzmanics/node-kinvey-base-project#readme",
   "dependencies": {
-    "kinvey-node-sdk": "^3.12.5"
+    "kinvey-node-sdk": "^7.0.0"
   }
 }
